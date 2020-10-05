@@ -1,0 +1,23 @@
+{
+  "name": "git-json",
+  "version": "1.0.0",
+  "description": "esto es para aprender git and node",
+  "main": "index.html",
+  "scripts": {
+    "test": "https://github.com/JuanFelipeObregonRodriguez/usando-node.git"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuanFelipeObregonRodriguez/usando-node.git"
+  },
+  "author": "Juan Obregon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JuanFelipeObregonRodriguez/usando-node/issues"
+  },
+  "homepage": "https://github.com/JuanFelipeObregonRodriguez/usando-node#readme",
+  "devDependencies": {
+    "live-server": "^1.2.1",
+    "typescript": "^4.0.3"
+  }
+}
